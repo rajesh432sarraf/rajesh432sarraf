@@ -1,16 +1,55 @@
-## Hi there 👋
+# Hi 👋 I'm Rajesh Kumar  
 
-<!--
-**rajesh432sarraf/rajesh432sarraf** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 B.Tech Student | 💻 Aspiring Software Engineer | 🚀 Hackathon Enthusiast  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 👨‍💻 About Me
+- 🔭 Currently working on **Web Development & Java**
+- 🧠 Learning **DSA (Java)** and **System Design Basics**
+- 🏆 Hackathon experience (Offline-first disaster response app)
+- 🎯 Goal: Crack a **top tech role / internship**
+
+---
+
+## 🛠️ Tech Stack
+**Languages:**  
+- Java  
+- JavaScript  
+
+**Frontend:**  
+- HTML  
+- CSS  
+- JavaScript  
+
+**Tools & Platforms:**  
+- Git & GitHub  
+- VS Code  
+
+---
+
+## 🚀 Featured Projects
+### 🔹 Digital Tic Tac Toe Game
+- Built using HTML, CSS & JavaScript  
+- Interactive UI and game logic  
+🔗 Repo: https://github.com/rajesh432sarraf/DIGITAL-TIC-TAC-TOE-GAME
+
+### 🔹 Resilient Web (Hackathon Project)
+- Offline-first disaster response web app  
+- Focused on reliability during network failure  
+🔗 Repo: https://github.com/084divyanshuraj/resilient-web
+
+---
+
+## 📊 GitHub Stats
+![Rajesh's GitHub stats](https://github-readme-stats.vercel.app/api?username=rajesh432sarraf&show_icons=true&theme=tokyonight)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rajesh432sarraf&layout=compact&theme=tokyonight)
+
+---
+
+## 🤝 Connect With Me
+- 📧 Email: sarrafrajesh432@gmail.com
+- 💼 LinkedIn: *(add your LinkedIn link here)*
+
+⭐ If you like my work, consider starring my repositories!
