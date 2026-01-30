@@ -1,88 +1,24 @@
-<!-- Animated Header -->
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=28&duration=3000&color=36BCF7&center=true&vCenter=true&width=800&lines=Hi+👋+I'm+Rajesh+Kumar;B.Tech+CSE+Student;Java+%26+Web+Developer;Hackathon+Enthusiast;Aspiring+Software+Engineer" />
-</p>
+
+## 🌐 Socials:
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/rajesh_soni432) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Rajesh Kumar) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:sarrafrajesh432@gmail.com) 
+
+# 💻 Tech Stack:
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=rajesh432sarraf&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=rajesh432sarraf&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=rajesh432sarraf&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
+
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=rajesh432sarraf&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=rajesh432sarraf&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 ---
+[![](https://visitcount.itsvg.in/api?id=rajesh432sarraf&icon=0&color=0)](https://visitcount.itsvg.in)
 
-## 👨‍💻 About Me
-
-🎓 **B.Tech CSE Student**  
-💻 **Java | Web Development | DSA Learner**  
-🚀 **Hackathon Enthusiast (Offline-First Solutions)**  
-🎯 **Goal:** Crack a top **Software Engineer / Internship role**
-
-- 🔭 Currently working on **Java + Frontend Projects**
-- 🌱 Learning **DSA in Java & System Design basics**
-- 🧠 Love building **real-world projects**
-- ⚡ Believe in **consistent growth > shortcuts**
-
----
-
-## 🛠️ Tech Stack
-
-### 💻 Languages
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript)
-
-### 🌐 Frontend
-![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5)
-![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3)
-![JS](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript)
-
-### 🧰 Tools
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)
-![VS Code](https://img.shields.io/badge/VS_Code-0078D4?style=for-the-badge&logo=visual-studio-code)
-
----
-
-## 🚀 Featured Projects
-
-### 🎮 Digital Tic Tac Toe Game
-🟢 Interactive game using **HTML, CSS & JavaScript**  
-🟢 Clean UI & game logic  
-🔗 **Repo:** https://github.com/rajesh432sarraf/DIGITAL-TIC-TAC-TOE-GAME
-
----
-
-### 🌐 Resilient Web (Hackathon Project)
-🟢 Offline-first disaster response web app  
-🟢 Designed for low-network situations  
-🟢 Team-based hackathon project  
-🔗 **Repo:** https://github.com/084divyanshuraj/resilient-web
-
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=rajesh432sarraf&show_icons=true&theme=tokyonight" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rajesh432sarraf&layout=compact&theme=tokyonight" height="165"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rajesh432sarraf&theme=tokyonight"/>
-</p>
-
----
-
-## 🧠 What I'm Currently Learning
-- 📌 Data Structures & Algorithms (Java)
-- 📌 JavaScript Advanced Concepts
-- 📌 Git & Open Source Collaboration
-
----
-
-## 🤝 Connect With Me
-
-📧 **Email:** sarrafrajesh432@gmail.com  
-💼 **LinkedIn:** *(Add your LinkedIn URL here)*  
-
----
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=rajesh432sarraf&label=Profile%20Views&color=blue&style=flat" />
-</p>
-
-⭐ *If you like my work, don’t forget to star the repositories!*  
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
