@@ -14,11 +14,11 @@
 
 ## 🛠️ Tech Stack
 **Languages:** 
-- Java
-- python
 - c
-- php
+- python
+- Java
 - Mysql 
+- php
 - JavaScript
 
 **Frontend:**  
