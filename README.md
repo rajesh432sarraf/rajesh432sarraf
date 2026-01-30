@@ -13,8 +13,12 @@
 ---
 
 ## 🛠️ Tech Stack
-**Languages:**  
-- Java  
+**Languages:** 
+- Java
+- python
+- c
+- php
+- Mysql 
 - JavaScript
 
 **Frontend:**  
@@ -40,7 +44,6 @@
 🔗 Repo: https://github.com/084divyanshuraj/resilient-web
 
 ---
-
 
 ## 🤝 Connect With Me
 - 📧 Email: sarrafrajesh432@gmail.com
