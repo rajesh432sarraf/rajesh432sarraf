@@ -1,10 +1,10 @@
-# Hi 👋 I'm Rajesh Kumar  
+# Hi, I'm Rajesh Kumar  
 
 🎓 B.Tech Student | 💻 Aspiring Software Engineer | 🚀 Hackathon Enthusiast  
 
 ---
 
-## 👨‍💻 About Me
+## About Me
 - 🔭 Currently working on **Web Development & Java**
 - 🧠 Learning **DSA (Java)** and **System Design Basics**
 - 🏆 Hackathon experience (Offline-first disaster response website and SIH-Safety and Tourism)
@@ -12,7 +12,7 @@
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 **Languages:** 
 - c
 - python
