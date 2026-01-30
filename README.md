@@ -41,12 +41,6 @@
 
 ---
 
-## 📊 GitHub Stats
-![Rajesh's GitHub stats](https://github-readme-stats.vercel.app/api?username=rajesh432sarraf&show_icons=true&theme=tokyonight)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rajesh432sarraf&layout=compact&theme=tokyonight)
-
----
 
 ## 🤝 Connect With Me
 - 📧 Email: sarrafrajesh432@gmail.com
