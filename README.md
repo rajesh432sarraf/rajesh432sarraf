@@ -1,8 +1,9 @@
 # 💫 Hi, I'm Rajesh Kumar
 **🎓 B.Tech Student | 💻 Aspiring Software Engineer | 🚀 Hackathon Enthusiast**
 
-Email Me 👉 ✉️ **sarrafrajesh432@gmail.com** For Collaboration/Project or Anything Else. 😊😊
-
+## 🤝 Connect With Me
+- 📧 Email: sarrafrajesh432@gmail.com
+- 💼 LinkedIn: (www.linkedin.com/in/rajesh-kumar-105891350)
 - 🔭 **Currently working on *Web Development & Java*** 
 - 🧠 **Learning *DSA (Java)* and *System Design Basics*** 
 - 🎯 **Goal: Crack a *top tech role / internship***
