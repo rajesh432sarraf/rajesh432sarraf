@@ -7,7 +7,7 @@
 ## 👨‍💻 About Me
 - 🔭 Currently working on **Web Development & Java**
 - 🧠 Learning **DSA (Java)** and **System Design Basics**
-- 🏆 Hackathon experience (Offline-first disaster response app)
+- 🏆 Hackathon experience (Offline-first disaster response website and SIH-Safety and Tourism)
 - 🎯 Goal: Crack a **top tech role / internship**
 
 ---
@@ -15,16 +15,16 @@
 ## 🛠️ Tech Stack
 **Languages:**  
 - Java  
-- JavaScript  
+- JavaScript
 
 **Frontend:**  
 - HTML  
 - CSS  
-- JavaScript  
+- JavaScript 
 
 **Tools & Platforms:**  
 - Git & GitHub  
-- VS Code  
+- VS Code 
 
 ---
 
@@ -50,6 +50,6 @@
 
 ## 🤝 Connect With Me
 - 📧 Email: sarrafrajesh432@gmail.com
-- 💼 LinkedIn: *(add your LinkedIn link here)*
+- 💼 LinkedIn: *(www.linkedin.com/in/rajesh-kumar-105891350)*
 
 ⭐ If you like my work, consider starring my repositories!
