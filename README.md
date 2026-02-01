@@ -26,7 +26,7 @@
 ### 🔹 Digital Tic Tac Toe Game
 - Built using HTML, CSS & JavaScript  
 - Interactive UI and game logic  
-🔗 Repo: https://github.com/rajesh432sarraf/DIGITAL-TIC-TAC-TOE-GAME
+🔗 Repo: https://digital-tic-tac-toe-game-test-0k1w.onrender.com
 
 ### 🔹 Resilient Web (Hackathon Project)
 - Offline-first disaster response web app  
