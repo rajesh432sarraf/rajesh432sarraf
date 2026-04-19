@@ -13,6 +13,11 @@
 
 ---
 
+## 🐍 Contribution Graph
+
+![snake gif](https://profile-readme-generator.com/assets/snake.svg)
+---
+
 ## 💻 Tech Stack
 
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
@@ -52,11 +57,6 @@
 
 <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rajesh432sarraf&layout=compact&theme=tokyonight&hide_border=true"/>
 
----
-
-## 🐍 Contribution Graph
-
-![snake gif](https://profile-readme-generator.com/assets/snake.svg)
 
 ---
 
