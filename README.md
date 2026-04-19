@@ -42,9 +42,6 @@
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rajesh432sarraf&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
-<!--## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=rajesh432sarraf&theme=radical&no-frame=false&no-bg=true&margin-w=4)-->
-## 🔥 Contribution Streak
 
 <p align="center">
   <img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=rajesh432sarraf&theme=tokyonight&hide_border=true&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF"/>
@@ -53,15 +50,3 @@
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=rajesh432sarraf&limit=5&theme=dark&combine_all_yearly_contributions=true)
-
----
-[![](https://visitcount.itsvg.in/api?id=rajesh432sarraf&icon=0&color=0)](https://visitcount.itsvg.in)-->
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in )
-
-⭐ If you like my work, consider starring my repositories!
-
-
-this is my github profile code can you inhance it in batter way and also arrange it
