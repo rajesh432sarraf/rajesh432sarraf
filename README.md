@@ -82,6 +82,12 @@ Currently focused on Data Structures & Algorithms (Java), Web Development, and S
 
 ---
 
+## 🔥 Contribution Streak
+
+<p align="center">
+  <img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=rajesh432sarraf&theme=tokyonight&hide_border=true&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF"/>
+</p>
+
 ## 🐍 Contribution Graph Animation
 
 <p align="center">
