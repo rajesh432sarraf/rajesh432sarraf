@@ -44,7 +44,7 @@
 
 
 <p align="center">
-  <img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=rajesh432sarraf&theme=tokyonight&hide_border=true&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF"/>
+  <img height="170" left-margin="0px" src="https://github-readme-streak-stats.herokuapp.com/?user=rajesh432sarraf&theme=tokyonight&hide_border=true&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF"/>
 </p>
 
 ### ✍️ Random Dev Quote
