@@ -1,94 +1,74 @@
-<h1 align="center">Rajesh Kumar</h1>
+<h1 align="center">Hi 👋, I'm Rajesh Kumar</h1>
+<h3 align="center">💻 Aspiring Software Engineer | 🚀 Hackathon Enthusiast | 🎓 B.Tech CSE Student</h3>
 
 <p align="center">
-Software Engineer in Progress | Full Stack Developer | Problem Solver
-</p>
-
-<p align="center">
-Building scalable applications, solving complex problems, and continuously improving engineering skills.
+Passionate about building scalable web applications and solving real-world problems using code.
+Currently focused on Data Structures & Algorithms (Java), Web Development, and System Design fundamentals.
 </p>
 
 ---
 
-## 👨‍💻 Professional Summary
-
-Results-driven Computer Science student with strong foundations in Data Structures, Algorithms, and Full Stack Development.
-Passionate about designing efficient, scalable, and user-focused applications.
-
-Focused on writing clean, maintainable code and building impactful software solutions.
+## 🔗 Connect With Me
+- 📧 Email: sarrafrajesh432@gmail.com
+- 💼 LinkedIn: https://www.linkedin.com/in/rajesh-kumar-105891350
+- 💻 GitHub: https://github.com/rajesh432sarraf
 
 ---
 
-## ⚡ Core Competencies
-
-- Data Structures & Algorithms (Java)
-- Full Stack Web Development
-- REST API Development
-- Problem Solving & Optimization
-- System Design Fundamentals
-- Database Design
-- Git & Version Control
-- Debugging & Performance Improvement
+## 👨‍💻 About Me
+- 🎓 B.Tech Computer Science student
+- 💻 Interested in Software Development & Problem Solving
+- 🔭 Currently working on **Web Development projects**
+- 🌱 Learning **DSA in Java & System Design basics**
+- 🚀 Participating in **Hackathons & real-world projects**
+- 🎯 Goal: **Crack a top tech internship / software engineer role**
+- 🤝 Open to collaboration on tech projects
 
 ---
 
 ## 🛠 Tech Stack
 
-### Languages
+### 💻 Programming Languages
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
 
-### Frontend Development
+### 🌐 Web Development
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-
-### Backend & Database
 ![NodeJS](https://img.shields.io/badge/Node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+
+### 🗄 Database & Backend
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-039BE5?style=for-the-badge&logo=firebase)
 
-### Data & Tools
+### 📊 Data & Libraries
 ![NumPy](https://img.shields.io/badge/Numpy-013243?style=for-the-badge&logo=numpy&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
 ---
 
-## 📂 Key Projects
+## 🚀 Featured Projects
 
-### Resilient Web — Fault-Tolerant Emergency Platform
-Designed an offline-first web application capable of functioning in unreliable network environments.
-Implemented data persistence strategies to maintain functionality during connectivity disruptions.
-
-Tech:
-JavaScript, Web APIs, Storage Strategies
-
-Impact:
-Improves accessibility of emergency tools during disasters.
-
-Repository:
-https://github.com/084divyanshuraj/resilient-web
+### 🔹 Digital Tic Tac Toe Game
+- Interactive browser-based game
+- Built using HTML, CSS, JavaScript
+- Focused on UI responsiveness & logic building
+- 🌐 Live Demo: https://digital-tic-tac-toe-game-test.onrender.com
 
 ---
 
-### Digital Tic Tac Toe — Interactive Game Engine
-Developed a browser-based game focusing on modular logic structure and responsive UI design.
-
-Tech:
-HTML, CSS, JavaScript
-
-Features:
-Optimized game logic, user-friendly interface, responsive layout.
-
-Live Demo:
-https://digital-tic-tac-toe-game-test.onrender.com
+### 🔹 Resilient Web (Hackathon Project)
+- Disaster response web app
+- Works even during poor network connectivity
+- Built for reliability in emergency scenarios
+- 🔗 Repo: https://github.com/084divyanshuraj/resilient-web
 
 ---
 
-## 📊 Engineering Metrics
+## 📊 GitHub Stats
 
 <p align="center">
 
@@ -102,38 +82,28 @@ https://digital-tic-tac-toe-game-test.onrender.com
 
 ---
 
-## 🧠 Engineering Focus Areas
-
-- Algorithmic Problem Solving
-- Scalable System Design
-- Clean Code Principles
-- Performance Optimization
-- Software Architecture Basics
-
----
-
-## 📈 2026 Engineering Goals
-
-- Solve 500+ DSA problems
-- Build production-ready full stack applications
-- Contribute to open source
-- Gain industry internship experience
-- Master backend architecture fundamentals
-
----
-
-## 🤝 Professional Links
-
-LinkedIn:
-https://www.linkedin.com/in/rajesh-kumar-105891350
-
-Email:
-sarrafrajesh432@gmail.com
-
----
+## 🐍 Contribution Graph Animation
 
 <p align="center">
-
-"First, solve the problem. Then, write the code."
-
+<img src="https://profile-readme-generator.com/assets/snake.svg" alt="snake animation"/>
 </p>
+
+---
+
+## ✍️ Developer Quote
+
+<p align="center">
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight"/>
+</p>
+
+---
+
+## 🎯 2026 Goals
+- Solve 300+ DSA problems
+- Build 5+ real-world projects
+- Contribute to open source
+- Crack Software Engineer Internship
+
+---
+
+⭐ If you like my work, consider giving a star to repositories!
